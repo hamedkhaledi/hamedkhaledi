@@ -4,9 +4,12 @@
 ![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamedkhaledi&theme=dark&show_icons=true)
 
 
-#Contact me
+##
+
+ ### Contact me :
+
 <a href="https://www.linkedin.com/in/hamed-khademi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:khaledihkh@gmail.com)/"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<a href="mailto:khaledihkh@gmail.com)/"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 ##
 
  ### Git usage status:
