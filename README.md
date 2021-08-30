@@ -31,5 +31,7 @@
 
  ### Git usage status:
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamedkhaledi&)](https://github.com/hamedkhaledi&/github-readme-stats)
- ![Hamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamedkhaledi&theme=dark&show_icons=true)
+  <div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hamedkhaledi&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamedkhaledi&layout=compact&langs_count=7&theme=yeblu"/>
+  </div> 
