@@ -1,6 +1,5 @@
 # Hamed Khademi Khaledi
   - computer engineering student - Shahid Beheshti University 
-#
 
 ##
 
@@ -12,6 +11,16 @@
 <a href="#"><img alt="$" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 <a href="#"><img alt="$" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
 
+
+
+
+##
+
+ ### :rocket: Frameworks
+  <a href="#"><img alt="$" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
+  <a href="#"><img alt="$" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a href="#"><img alt="$" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
+  
 ##
 
  ### :calling: Contact me :
